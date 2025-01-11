@@ -10,7 +10,7 @@ Welcome to my repository! Here you can find code I've written for various platfo
 <!-- Welcome to my repository! I use this place to share my codes to multiple platforms and other people. You can take a look whatever you want and feedback if you find any issue or improve. -->
 
 ## Github Stats
-[![Teqnobit's GitHub stats](https://github-readme-stats.vercel.app/api?username=teqnobit&hide=contribs&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Teqnobit's GitHub stats](https://github-readme-stats.vercel.app/api?username=teqnobit&hide=contribs&theme=gotham)
 
 ## About Me
 I'm a biomedical engineer with a strong background in computer systems. I'm passionate about full-stack web development, mobile app development, embedded systems, IoT, and AI. I'm always looking for new projects and opportunities to expand my skillset.
