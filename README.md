@@ -12,10 +12,10 @@ Welcome to my repository! Here you can find code I've written for various platfo
 ## Github Stats
 [![Teqnobit's GitHub stats](https://github-readme-stats.vercel.app/api?username=teqnobit&hide=contribs&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-## About me
+## About Me
 I'm a biomedical engineer with a strong background in computer systems. I'm passionate about full-stack web development, mobile app development, embedded systems, IoT, and AI. I'm always looking for new projects and opportunities to expand my skillset.
 
-## My stack
+## My Stack
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python,java,js,arduino,matlab,kotlin)
 
@@ -28,13 +28,13 @@ I'm a biomedical engineer with a strong background in computer systems. I'm pass
 #### Database 
 ![Database](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
 
-#### Other tools & technologies
+#### Other Tools & Technologies
 ![Tools](https://skillicons.dev/icons?i=git,github,bash,ubuntu,vscode,postman,androidstudio,tensorflow,qt,anaconda,markdown,regex&perline=6)
 
-## Contact me
+## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/arieltequida)
 - [Personal Website](http://teqnobit.xyz)
-- [Email: ariel.tequida@gmail.com](mailto:ariel.tequida@gmail.com)
+- [Email: Ariel.Tequida@Gmail.com](mailto:ariel.tequida@gmail.com)
 
 <!--
 **teqnobit/teqnobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
