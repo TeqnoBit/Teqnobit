@@ -31,7 +31,10 @@ I'm a biomedical engineer with a strong background in computer systems. I'm pass
 #### Other tools & technologies
 ![Tools](https://skillicons.dev/icons?i=git,github,bash,ubuntu,vscode,postman,androidstudio,tensorflow,qt,anaconda,markdown,regex&perline=6)
 
-
+## Contact me
+- [LinkedIn](https://www.linkedin.com/in/arieltequida)
+- [Personal Website](http://teqnobit.xyz)
+- [Email: ariel.tequida@gmail.com](mailto:ariel.tequida@gmail.com)
 
 <!--
 **teqnobit/teqnobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
