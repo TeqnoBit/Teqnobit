@@ -23,7 +23,7 @@ I'm a biomedical engineer with a strong background in computer systems. I'm pass
 ![Frontend](https://skillicons.dev/icons?i=react,html,css)
 
 #### Backend Technologies
-![Backend](https://skillicons.dev/icons?i=aws,fastapi,django,docker)
+![Backend](https://skillicons.dev/icons?i=aws,fastapi,django,docker,nginx)
 
 #### Database 
 ![Database](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
