@@ -6,7 +6,7 @@ Welcome to my repository! Here you can find code I've written for various platfo
 <!-- Informal -->
 <!-- Welcome to my repository! I use this space to share my code for multiple platforms and other people. Feel free to take a look at anything you want and provide feedback if you find any issues or have suggestions for improvement. -->
 
-<!-- Mi version -->
+<!-- Alternative version -->
 <!-- Welcome to my repository! I use this place to share my codes to multiple platforms and other people. You can take a look whatever you want and feedback if you find any issue or improve. -->
 
 ## Github Stats
@@ -31,10 +31,10 @@ I'm a biomedical engineer with a strong background in computer systems. I'm pass
 #### Other Tools & Technologies
 ![Tools](https://skillicons.dev/icons?i=git,github,bash,ubuntu,vscode,postman,androidstudio,tensorflow,qt,anaconda,markdown,regex&perline=6)
 
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/arieltequida)
-- [Personal Website](http://teqnobit.xyz)
-- [Email: Ariel.Tequida@Gmail.com](mailto:ariel.tequida@gmail.com)
+# Contact Me
+- ### [LinkedIn](https://www.linkedin.com/in/arieltequida)
+- ### [Personal Website](http://teqnobit.xyz)
+- ### [Email: Ariel.Tequida@Gmail.com](mailto:ariel.tequida@gmail.com)
 
 <!--
 **teqnobit/teqnobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
